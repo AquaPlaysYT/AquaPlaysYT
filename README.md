@@ -4,11 +4,11 @@
 
 ### Contact me:
 
-[![Web](web.svg)][website]
-[![YouTube](free-icon-youtube-1384060.svg)][youtube]
-[![Twitter](twitter.svg)][twitter]
-[![Instagram](discord.svg)][discord]
-
+[<img align="left" alt="aquaticdevelopment" width="22px" src="web.svg" />][website]
+[<img align="left" alt="Aqua Plays | YouTube" width="22px" src="free-icon-youtube-1384060.svg" />][youtube]
+[<img align="left" alt="Aqua Plays | Twitter" width="22px" src="twitter.svg" />][twitter]
+[<img align="left" alt="Aqua Plays | Discord" width="22px" src="discord.svg" />][discord]
+<br>
 ## Stats
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=AquaPlaysYT&count_private=true&theme=dracula&show_icons=true)](https://github.com/AquaPlaysYT)
