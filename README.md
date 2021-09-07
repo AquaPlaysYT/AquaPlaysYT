@@ -9,7 +9,7 @@
 </div>
 <div>
     <p align="center">
-        My name is Aqua, I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy!
+        My name is Kyle, I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy!
         <li>          
             <b>Age:</b> 16
             </li>
@@ -18,6 +18,9 @@
             </li>
             <li>
             <b>Gender:</b> Male
+            </li>
+            <li>
+            <b>Working on:</b> Yutashi, Ostium
             </li>
             <li>
             <b>Hobbys:</b> Web Development, Watching Anime, Content Creation
