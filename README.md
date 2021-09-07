@@ -9,12 +9,12 @@
           <img src="gif_one.gif" align="right">
     </div>
     <div>
-       <p align="center">TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest</p>
+       <p align="center">I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy. <br>Test <br>Test</p>
        <br>
-       <h2 align="right">           📝 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📝</h2>
-           <img src="gif_two.gif" align="left">
+       <h2 align="left">           📝 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📝</h2>
+           <img src="gif_two.gif" align="right">
        <br>
-       <p align="center">TTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestest</p>
+       <p align="center">I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy. <br>Test <br>Test</p>
     </div>
     <br>
     </div>
