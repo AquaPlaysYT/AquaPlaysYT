@@ -19,6 +19,6 @@
 
 [website]: https://yutashi.xyz
 [twitter]: https://twitter.com/aquaplaysyt
-[youtube]: https://www.youtube.com/c/aquaplaysyt
+[youtube]: https://www.youtube.com/aqua
 [discord]: https://discord.bio/p/aquaplays
 
