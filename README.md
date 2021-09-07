@@ -35,20 +35,18 @@
     <br>
     <p align="center">I am currently spending my days on a project called <br><a href="https://yutashi.xyz">Yutashi</a> & <a href="https://github.com/OstiumDev">Ostium</a>. <br><b>Yutashi:</b> Yutashi is a project to allow ease of acces on profile pictures and banners for Discord. Users can download, explore and download any theme from across the site.<br><br><b>Ostium:</b> Ostium is a modding framework and private server for Splitgate which contains every cosmetic, local multiplayer, an ssl bypass and much more. We plan on releasing this later down the year alongside our server.</p>
 </div>
-<div>
-    <p align="center">
-        <br>
-        <a href="https://github.com/aquaplaysyt"><img src="https://github-readme-stats.vercel.app/api?username=aquaplaysyt&hide_border=true&show_icons=true" alt="Aquas's github stats"></a>
-      </p>
-      
-      <p align="center">
-        <strong><a href="https://yutashi.xyz">Yutashi</a></strong> |
-        <strong><a href="https://twitter.com/aquaplaysyt">Twitter</a></strong> |
-        <strong><a href="https://discord.gg/wR9rfFT">Discord</a></strong> |
-        <strong><a href="https://youtube.com/aqua">Youtube</a></strong> |
-        <strong><a href="https://www.twitch.tv/aquaplaysx">Twitch</a></strong>
-      </p>
-      
-      <p align="center">❤ Make friends along your journey and never look back. ❤</p>
-    <br>
-</div>
+<h1 align="center">~ 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 ~</h1>
+<p align="center">
+    <a href="https://github.com/aquaplaysyt"><img src="https://github-readme-stats.vercel.app/api?username=aquaplaysyt&hide_border=true&show_icons=true" alt="Aquas's github stats"></a>
+  </p>
+  
+  <p align="center">
+    <strong><a href="https://yutashi.xyz">Yutashi</a></strong> |
+    <strong><a href="https://twitter.com/aquaplaysyt">Twitter</a></strong> |
+    <strong><a href="https://discord.gg/wR9rfFT">Discord</a></strong> |
+    <strong><a href="https://youtube.com/aqua">Youtube</a></strong> |
+    <strong><a href="https://www.twitch.tv/aquaplaysx">Twitch</a></strong>
+  </p>
+  
+  <p align="center">❤ Make friends along your journey and never look back. ❤</p>
+<br>
