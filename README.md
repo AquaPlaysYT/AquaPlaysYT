@@ -9,12 +9,12 @@
           <img src="gif_one.gif" align="right">
     </div>
     <div>
-       <p align="center">Test</p>
+       <p align="center">TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest</p>
        <br>
-       <h2>           📝 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📝</h2>
-           <img src="gif_two.gif" align="right">
+       <h2 align="right">           📝 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📝</h2>
+           <img src="gif_two.gif" align="left">
        <br>
-       <p align="center">Test</p>
+       <p align="center">TTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestest</p>
     </div>
     <br>
     </div>
