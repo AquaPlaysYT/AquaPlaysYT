@@ -3,7 +3,7 @@
     <a href=""><img src="banner.png" alt="aqua's Banner"></a>
     </p>
 <div>
-    <h2 align="left">ㅤㅤㅤㅤㅤㅤ~ 📝 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 📝 ~</h2>
+    <h2 align="left">ㅤㅤㅤㅤㅤ~ 📝 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 📝 ~</h2>
     <p>
         <img src="gif_one.gif" align="right">
 </div>
@@ -30,7 +30,7 @@
         </li>
     </p>
     <br>
-    <h2 align="left">ㅤㅤㅤㅤㅤㅤ📇 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📇</h2>
+    <h2 align="left">ㅤㅤㅤㅤㅤ📇 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📇</h2>
         <img src="gif_two.gif" align="right">
     <br>
     <p align="center">I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy. <br>Test <br>Test</p>
