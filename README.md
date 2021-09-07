@@ -23,19 +23,23 @@
             <b>Working on:</b> Yutashi, Ostium
             </li>
             <li>
-            <b>Hobbys:</b> Web Development, Watching Anime, Content Creation
+            <b>Hobbys:</b> Web Development, Anime, Content Creation
+            </li>
+            <li>
+            <b>Anime:</b> SAO, Your lie in April, Akame Ga Kill
             </li>
             <li>
             <b>Friends:</b> <a href="https://github.com/ItsSyfe">Syfe</a>, <a href="https://github.com/PsychoPast">Psycho</a>, <a href="https://github.com/karmakittenx">Karma</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a>
+            <h1 align="center"></h1>
         </li>
     </p>
     <br>
     <h2 align="left">ㅤㅤㅤㅤㅤ📇 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📇</h2>
         <img src="gif_two.gif" align="right">
     <br>
-    <p align="center">I am currently spending my days on a project called <br><a href="https://yutashi.xyz">Yutashi</a> & <a href="https://github.com/OstiumDev">Ostium</a>. <br><b>Yutashi:</b> Yutashi is a project to allow ease of acces on profile pictures and banners for Discord. Users can download, explore and download any theme from across the site.<br><br><b>Ostium:</b> Ostium is a modding framework and private server for Splitgate which contains every cosmetic, local multiplayer, an ssl bypass and much more. We plan on releasing this later down the year alongside our server.</p>
+    <p align="center">I am currently spending my days on a project called <br><a href="https://yutashi.xyz">Yutashi</a> & <a href="https://github.com/OstiumDev">Ostium</a>. <br><b>Yutashi:</b> Yutashi is a project to allow ease of acces on profile pictures and banners for Discord. Users can download, explore and download any theme from across the site as well as favourite tags and themes for later.<br><br><b>Ostium:</b> Ostium is a modding framework and private server for Splitgate which contains every cosmetic, local multiplayer, an ssl bypass and much more. We plan on releasing this later down the year alongside our server.</p>
 </div>
-<h1 align="center">~ 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 ~</h1>
+<h1 align="center"></h1>
 <p align="center">
     <a href="https://github.com/aquaplaysyt"><img src="https://github-readme-stats.vercel.app/api?username=aquaplaysyt&hide_border=true&show_icons=true" alt="Aquas's github stats"></a>
   </p>
@@ -49,4 +53,3 @@
   </p>
   
   <p align="center">❤ Make friends along your journey and never look back. ❤</p>
-<br>
