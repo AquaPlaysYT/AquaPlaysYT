@@ -9,7 +9,7 @@
 </div>
 <div>
     <p align="center">
-        My name is Kyle, I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy!
+        My name is Kyle, I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy away from college!
         <li>          
             <b>Age:</b> 16
             </li>
@@ -33,6 +33,6 @@
     <h2 align="left">ㅤㅤㅤㅤㅤ📇 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📇</h2>
         <img src="gif_two.gif" align="right">
     <br>
-    <p align="center">I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy. <br>Test <br>Test</p>
+    <p align="center">I am currently spending my days on a project called <a href="https://yutashi.xyz">Yutashi</a> & <a href="https://github.com/OstiumDev">Ostium</a>. <br><b>Yutashi:</b> Yutashi is a project to allow ease of acces on profile pictures and banners for Discord. Users can download, explore and download any theme from across the site.<br><b>Ostium:</b> Ostium is a modding framework and private server for Splitgate which contains every cosmetic, local multiplayer, an ssl bypass and much more.</p>
 </div>
 <br>
