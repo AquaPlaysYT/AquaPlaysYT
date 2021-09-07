@@ -9,7 +9,7 @@
 </div>
 <div>
     <p align="center">
-        <b>My name is blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</b>
+        My name is Aqua, I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy!
         <li>          
             <b>Age:</b> 16
             </li>
@@ -23,7 +23,7 @@
             <b>Hobbys:</b> Web Development, Watching Anime, Content Creation
             </li>
             <li>
-            <b>Friends:</b> <a href="https://google.com">Syfe</a>, <a>Psycho</a>, <a>Karma</a>, <a>Droidy</a>
+            <b>Friends:</b> <a href="https://github.com/ItsSyfe">Syfe</a>, <a href="https://github.com/PsychoPast">Psycho</a>, <a href="https://github.com/karmakittenx">Karma</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a>
         </li>
     </p>
     <br>
