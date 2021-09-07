@@ -3,10 +3,15 @@
     <p align="center">
       <a href=""><img src="banner.png" alt="aqua's Banner"></a>
     </p>
-    <div>
-       <h2 align="left">            ~ 📝 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📝 ~</h2>
-       <p>
-          <img src="https://github.com/AquaPlaysYT/AquaPlaysYT/blob/master/gif_one.gif?raw=truef" align="right">
+    div>
+       <p align="center">Test</p>
+       <br>
+       <h2>           📝 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📝</h2>
+           <img src="https://github.com/AquaPlaysYT/AquaPlaysYT/blob/master/gif_two.gif?raw=true" align="right">
+       <br>
+       <p align="center">Test</p>
+    </div>
+    <br>
     </div>
 </body>
  
