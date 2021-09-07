@@ -9,8 +9,8 @@
 </div>
 <div>
     <p align="center">
-        <li>
-            <b>My name is blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</b>
+        <b>My name is blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</b>
+        <li>          
             <b>Age:</b> 16
             </li>
             <li>
@@ -23,7 +23,7 @@
             <b>Hobbys:</b> Web Development, Watching Anime, Content Creation
             </li>
             <li>
-            <b>Friends @:</b> <a>Syfe</a>, <a>Psycho</a>, <a>Karma</a>, <a>Droidy</a>
+            <b>Friends:</b> <a href="https://google.com">Syfe</a>, <a>Psycho</a>, <a>Karma</a>, <a>Droidy</a>
         </li>
     </p>
     <br>
