@@ -29,7 +29,7 @@
             <b>Anime:</b> SAO, Your lie in April, Akame Ga Kill
             </li>
             <li>
-            <b>Friends:</b> <a href="https://github.com/ItsSyfe">Syfe</a>, <a href="https://github.com/PsychoPast">Psycho</a>, <a href="https://github.com/karmakittenx">Karma</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a>
+            <b>Friends:</b> <a href="https://github.com/ItsSyfe">Syfe</a>, <a href="https://github.com/PsychoPast">Psycho</a>, <a href="https://github.com/karmakittenx">Karma</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a>, <a href="https://github.com/titchMW">Titch</a>, <a href="https://github.com/discreet-pc">Discreet</a>
             <h1 align="center"></h1>
         </li>
     </p>
