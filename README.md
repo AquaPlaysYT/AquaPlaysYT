@@ -14,10 +14,10 @@
             <b>Age:</b> 16
             </li>
             <li>
-            <b>Games:</b> Osu, Rocket League, Splitgate, Rust
+            <b>Gender:</b> Male
             </li>
             <li>
-            <b>Gender:</b> Male
+            <b>Games:</b> Osu, Rocket League, Splitgate, Rust
             </li>
             <li>
             <b>Working on:</b> Yutashi, Ostium
