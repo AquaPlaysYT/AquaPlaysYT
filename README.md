@@ -41,8 +41,8 @@
 </div>
 <h1 align="center"></h1>
 <p align="center">
-    <a href="https://github.com/aquaplaysyt"><img width="500px" src="https://github-readme-stats.vercel.app/api?username=aquaplaysyt&hide_border=true&show_icons=true" alt="Aquas's github stats"></a>
-    <a href="https://github.com/aquaplaysyt"><img width="370px" src="https://lanyard-profile-readme.vercel.app/api/609101328752574492?theme=light&bg=ffff&animated=true&hideDiscrim=true&borderRadius=5px?idleMessage=Watching the stars ⭐" alt="Aquas's github stats"></a>
+    <a href="https://github.com/aquaplaysyt"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=aquaplaysyt&hide_border=true&show_icons=true" alt="Aquas's github stats"></a>
+    <a href="https://github.com/aquaplaysyt"><img width="333px" src="https://lanyard-profile-readme.vercel.app/api/609101328752574492?theme=light&bg=ffff&animated=true&hideDiscrim=true&borderRadius=5px&idleMessage=Watching%20the%20stars%20⭐" alt="Aquas's github stats"></a>
 </p>
   
   <p align="center">
