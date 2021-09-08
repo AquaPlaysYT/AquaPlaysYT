@@ -23,7 +23,7 @@
             <b>Working on:</b> Yutashi, Ostium
             </li>
             <li>
-            <b>Hobbys:</b> Web Development, Anime, Content Creation
+            <b>Hobbys:</b> Development, Anime, Content Creation
             </li>
             <li>
             <b>Anime:</b> SAO, Your lie in April, Akame Ga Kill
@@ -33,7 +33,6 @@
             <h1 align="center"></h1>
         </li>
     </p>
-    <br>
     <h2 align="left">ㅤㅤ~ 📇 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 📇 ~</h2>
         <img src="gif_two.gif" align="right">
     <br>
