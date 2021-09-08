@@ -23,7 +23,7 @@
             <b>Working on:</b> Yutashi, Ostium
             </li>
             <li>
-            <b>Hobbys:</b> Web Dev, Anime, Content Creation
+            <b>Hobbys:</b> Web Development, Anime, Content Creation
             </li>
             <li>
             <b>Anime:</b> SAO, Your lie in April, Akame Ga Kill
