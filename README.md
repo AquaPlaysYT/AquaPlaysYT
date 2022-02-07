@@ -17,7 +17,7 @@
             <b>Gender:</b> Male
             </li>
             <li>
-            <b>Games:</b> Osu, Rocket League, Splitgate, Rust
+            <b>Games:</b> Osu, Rocket League, Valorant, Rust
             </li>
             <li>
             <b>Working on:</b> Yutashi, Ostium
