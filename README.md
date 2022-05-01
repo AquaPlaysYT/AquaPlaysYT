@@ -20,7 +20,7 @@
             <b>Games:</b> Osu, Rocket League, Valorant, Rust
             </li>
             <li>
-            <b>Working on:</b> Yutashi, Ostium
+            <b>Working on:</b> Vulx
             </li>
             <li>
             <b>Hobbys:</b> Development, Anime, Content Creation
@@ -36,7 +36,7 @@
     <h2 align="left">ㅤㅤ~ 📇 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 📇 ~</h2>
         <img src="gif_two.gif" align="right">
     <br>
-    <p align="center">I am currently spending my days on a project called <br><a href="https://yutashi.xyz">Yutashi</a> & <a href="https://github.com/OstiumDev">Ostium</a>. <br><b>Yutashi:</b> Yutashi is a project to allow ease of acces on profile pictures and banners for Discord. Users can download, explore and download any theme from across the site as well as favourite tags and themes for later.<br><br><b>Ostium:</b> Ostium is a modding framework and private server for Splitgate which contains every cosmetic, local multiplayer, an ssl bypass and much more. We plan on releasing this later down the year alongside our server.</p>
+    <p align="center">I am currently spending my days on a project called <br><a href="https://github.com/vulxdev">Vulx</a> <br><b>Vulx:</b> <i>What is Vulx?</i> Vulx is a custom project created for Valorant that allows uses to edit and view their in game profile / presence. This includes rank, leaderboard position along with a custom status!<br>
 </div>
 <h1 align="center"></h1>
 <p align="center">
