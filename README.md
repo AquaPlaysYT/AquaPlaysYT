@@ -11,7 +11,7 @@
     <p align="center">
         My name is Kyle, I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy away from college!
         <li>          
-            <b>Age:</b> 16
+            <b>Age:</b> 17
             </li>
             <li>
             <b>Gender:</b> Male
