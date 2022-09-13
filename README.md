@@ -3,13 +3,13 @@
     <a href=""><img src="banner.png" alt="aqua's Banner"></a>
     </p>
 <div>
-    <h2 align="left">ㅤㅤ~ 📝 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 📝 ~</h2>
+    <h2 align="left">ㅤ ㅤ ㅤ   ~ 📝 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 📝 ~</h2>
     <p>
         <img src="gif_one.gif" align="right">
 </div>
 <div>
-    <p align="center">
-        My name is Kyle, I am a college student studying for 3 A-Levels. I currently work on some Discord projects alongside game modding to keep me busy away from college!
+    <p align="left">
+        My name is Kyle, I am a college student studying for 3 A-Levels and I enjoy reverse working on projects in my free time that allow me to outlet creativity along with producitivty.
         <li>          
             <b>Age:</b> 17
             </li>
@@ -29,20 +29,28 @@
             <b>Anime:</b> SAO, Your lie in April, Akame Ga Kill
             </li>
             <li>
-            <b>Friends:</b> <a href="https://github.com/ItsSyfe">Syfe</a>, <a href="https://github.com/PsychoPast">Psycho</a>, <a href="https://github.com/karmakittenx">Karma</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a>, <a href="https://github.com/titchMW">Titch</a>, <a href="https://github.com/discreet-pc">Discreet</a>
+            <b>Friends:</b> <a href="https://github.com/ItsSyfe">Syfe</a>, <a href="https://github.com/PsychoPast">Psycho</a>, <a href="https://github.com/karmakittenx">Karma</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a>, <a href="https://github.com/discreet-pc">Discreet</a>
             <h1 align="center"></h1>
         </li>
     </p>
-    <h2 align="left">ㅤㅤ~ 📇 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 📇 ~</h2>
+    <h2 align="left">ㅤ ㅤ ㅤ   ~ 📇 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 📇 ~</h2>
         <img src="gif_two.gif" align="right">
     <br>
-    <p align="center">I am currently spending my days on a project called <br><a href="https://github.com/vulxdev">Vulx</a> <br><b>Vulx:</b> <i>What is Vulx?</i> Vulx is a custom project created for Valorant that allows uses to edit and view their in game profile / presence. This includes rank, leaderboard position along with a custom status!<br>
+    <p align="left">Currently im working hard to finish my latest project called <a href="https://github.com/vulxdev"><b>Vulx</b></a><br>
+    This application allows you to edit your Valorant presence directly from a dedicated web dashboard with the aim to create a flawless user experience.<br><br>
+    Alongside Vulx i am also working on a project called Yutashi which is a dedicated platform to find profile pictures that match banners for social media platforms.
+    Myself and Syfe are working hard to contribute towards this project along with Vulx while studying hard on our college courses to allow for creative freedom along 
+    with gain more qualifications.
 </div>
 <h1 align="center"></h1>
+
+
 <p align="center">
-    <a href="https://github.com/aquaplaysyt"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=aquaplaysyt&hide_border=true&show_icons=true" alt="Aquas's github stats"></a>
-</p>
+ 
+  [![Discord Presence](https://lanyard.cnrad.dev/api/696069759497797663)](https://discord.com/users/696069759497797663)<img width="532px" src="https://github-readme-stats.vercel.app/api?username=aquaplaysyt&hide_border=true&show_icons=true" alt="Aquas's github stats">
   
+</p>
+
   <p align="center">
     <strong><a href="https://yutashi.xyz">Yutashi</a></strong> |
     <strong><a href="https://twitter.com/aquaplaysyt">Twitter</a></strong> |
