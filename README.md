@@ -47,7 +47,7 @@
 
 <p align="center">
  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/696069759497797663)](https://discord.com/users/696069759497797663)<img width="532px" src="https://github-readme-stats.vercel.app/api?username=aquaplaysyt&hide_border=true&show_icons=true" alt="Aquas's github stats">
+  [![Discord Presence](https://lanyard.cnrad.dev/api/696069759497797663)](https://discord.com/users/696069759497797663)<img width="430px" src="https://github-readme-stats.vercel.app/api?username=aquaplaysyt&hide_border=true&show_icons=true" alt="Aquas's github stats">
   
 </p>
 
