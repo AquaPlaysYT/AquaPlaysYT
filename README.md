@@ -9,9 +9,9 @@
 </div>
 <div>
     <p align="left">
-        My name is Kyle, I am a college student studying for 3 A-Levels and I enjoy reverse working on projects in my free time that allow me to outlet creativity along with producitivty.
+        My name is Kyle, I am currently working on UGC Development within the Fortnite Ecosystem, perfecting the Verse language
         <li>          
-            <b>Age:</b> 17
+            <b>Age:</b> 19
             </li>
             <li>
             <b>Gender:</b> Male
